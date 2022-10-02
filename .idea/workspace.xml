@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c617ba18-f674-46dc-8fab-3c4ba41e8831" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pawelgalus/javacourse2022/App.java" afterDir="false" />
+    <list default="true" id="c617ba18-f674-46dc-8fab-3c4ba41e8831" name="Changes" comment="Create repository">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pawelgalus/javacourse2022/AudioBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pawelgalus/javacourse2022/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pawelgalus/javacourse2022/Ebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pawelgalus/javacourse2022/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/pawelgalus/javacourse2022/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pawelgalus/javacourse2022/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +25,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -60,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664702800467</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create repository">
+      <created>1664703552233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664703552233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,10 +80,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create repository" />
   </component>
 </project>
